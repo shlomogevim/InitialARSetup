@@ -73,6 +73,9 @@ dependencies {
 
 
     implementation'com.gorisse.thomas.sceneform:sceneform:1.18.10'
+
+    implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.3.1"
+
 }
 
 /*
